@@ -1,3 +1,4 @@
+# EXCELLENT SETUP
 # Exercise: Temperature Converter
 
 Goal: create a program that can convert a temperature in fahrenheit, Celsius or Kelvin to the other two units.
